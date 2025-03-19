@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Estudo consumo de API em react
 
-[Create React App](https://chico-primeflix.netlify.app/).
+[Link projeto publicado](https://chico-primeflix.netlify.app/).
